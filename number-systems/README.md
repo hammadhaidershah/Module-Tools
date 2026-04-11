@@ -13,7 +13,7 @@ Answer: 1·32 + 0·16 + 1·8 + 1·4 + 0·2 + 1·1 = 32 + 8 + 4 + 1 = 45
 Which is larger: 1000 or 0111?
 Answer: 1000 (1000 = 8, 0111 = 7)
 
-Which is larger: 00100 or 01011?
+Which is larger: 00100 or 01011?cd
 Answer: 01011 (00100 = 4, 01011 = 11)
 
 What is 10101 + 01010?
@@ -63,3 +63,4 @@ Answer: Purple/magenta-like (R=170, G=0, B=255 → purple/magenta)
 
 If reading the bytes 0xAA00FF as a sequence of three one-byte decimal numbers, what decimal numbers would they be?
 Answer: 170, 0, 255 (AA = 170, 00 = 0, FF = 255)
+.
