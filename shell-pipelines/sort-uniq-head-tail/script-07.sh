@@ -6,3 +6,7 @@ set -euo pipefail
 # TODO: Write a command to show how many times anyone has entered and exited.
 # It should be clear from your script's output that there have been 5 Entry events and 4 Exit events.
 # The word "Event" should not appear in your script's output.
+
+hammadhaider@Hammads-MacBook-Pro sort-uniq-head-tail % tail -n +2 events-with-timestamps.txt | cut -f3 | sort | uniq -c
+   5 Entry
+   4 Exit
