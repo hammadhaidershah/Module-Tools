@@ -13,7 +13,7 @@ if args.action == "calculate":
     parts = args.operation.split(",")
 
     num1 = float(parts[0])
-    operation = parts[1]
+    operation = parts[1]c
     num2 = float(parts[2])
 
     result = calculate(num1, operation, num2)
