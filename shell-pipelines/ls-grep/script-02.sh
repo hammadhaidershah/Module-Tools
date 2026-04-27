@@ -4,3 +4,15 @@ set -euo pipefail
 
 # TODO: Write a command to output the names of the files in the sample-files directory whose name starts with an upper case letter.
 # Your output should contain 10 files.
+
+hammadhaider@Hammads-MacBook-Pro ls-grep % ls sample-files | grep '^[A-Z]'
+Ariane
+Daniel
+HoChiMinh
+KualaLumpur
+Levi
+London
+NewYork
+Niamh
+Olga
+York
